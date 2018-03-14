@@ -22,6 +22,7 @@ curl -v -x http://localhost:8080 http://example.com
 - [Analyze](https://github.com/pi0/http-proxy-java/blob/master/src/ProxyThread.java#L33) HTTPRequest
 - [Analyze](https://github.com/pi0/http-proxy-java/blob/master/src/ProxyThread.java#L41) HTTPResponse
 - Implement A way for providing list of sites to monitor. (Using file)
+- Log monitor requests to a file
 - (optional) Add a GUI/TUI
 
 # License
